@@ -1,4 +1,4 @@
-#                                                                 Malith Kalana
+#  <center>Malith Kalana</center>                                                               
 ## Frontend Engineer
 
 Tech Stack 👇
