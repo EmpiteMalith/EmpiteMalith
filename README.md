@@ -5,7 +5,7 @@ Tech Stack 👇
 
 ✔ Frontend :- HTML, CSS, JavaScript, jQuery, Bootstrap, Typescript, SCSS, React, Styled-Components
 
-✔ Backend :- PHP, Laravel
+✔ Backend :- PHP, Laravel, Node Js
 
 ✔ Databases :- MySQL
 
