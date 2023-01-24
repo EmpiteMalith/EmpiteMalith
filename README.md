@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Engineer who love  building interactive digital experience on the web.
+Frontend Engineer who loves  building interactive digital experience on the web.
 
 
 ## 🌐 Socials:
